@@ -2,7 +2,7 @@ import { defineUserConfig, defaultTheme } from 'vuepress';
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
-  base: '/blog/',
+  base: '/',
   lang: 'zh-CN',
   title: 'haozg`s blog',
   description: 'haozg`s blog',
